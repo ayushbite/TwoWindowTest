@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TwoWindowTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TwoWindowTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

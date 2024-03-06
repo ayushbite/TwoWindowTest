@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RuntimeBasedOnData (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RuntimeBasedOnData (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
